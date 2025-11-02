@@ -1,0 +1,1 @@
+C:\Users\goodi\source\repos\HyperZoneFRPGUILauncherforWindows\HyperZoneFRPGUILauncherforWindows.csproj;x64

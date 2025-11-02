@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HyperZoneFRPGUILauncherforWindows (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HyperZoneFRPGUILauncherforWindows (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
